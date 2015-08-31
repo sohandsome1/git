@@ -1,5 +1,0 @@
-SQLite format 3
-
-add new information
-
-checkout
